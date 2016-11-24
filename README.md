@@ -48,7 +48,7 @@ Q: Is it legal?
 A: Depends to your local law and what you download.
 
 
-Q: Parse video link does not work *(sometimes)*?  
+Q: Extract video file url does not work *(sometimes)*?
 A: Expand the waiting time on class constructor ```self.__seconds = 25``` *(default is 15 sec)*.
 
 
